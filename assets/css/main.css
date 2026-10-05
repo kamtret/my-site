@@ -1780,12 +1780,12 @@ h1, h2, h3, h4, h5, h6 { font-family: "Manrope", sans-serif; text-transform: non
 @media screen and (max-width: 736px) { #main article .article-actions { top: 1rem; right: 1rem; } #main article .close:before { top: auto; left: auto; width: auto; height: auto; background-size: auto; } }
 
 /* Full-bleed clinical photography for section backdrops */
-#bg:after { background-image: linear-gradient(118deg, rgba(5, 26, 37, .91), rgba(14, 61, 75, .58)), url("../../images/gallery/consultation.jpg?v=20261005"); background-position: center; }
+#bg:after { background-image: linear-gradient(118deg, rgba(5, 26, 37, .91), rgba(14, 61, 75, .58)), url("../../images/gallery/consultation.jpg?v=20261005-2"); background-position: center; }
 #main article#doctor, #main article#specialties, #main article#approach, #main article#contact { color: #eef5f3; background-color: #163c48; background-size: cover; background-position: center; }
-#main article#doctor { background-image: linear-gradient(100deg, rgba(8, 34, 45, .95), rgba(8, 34, 45, .69)), url("../../images/gallery/portrait-desk.jpg?v=20261005"); background-position: center 35%; }
-#main article#specialties { background-image: linear-gradient(100deg, rgba(8, 34, 45, .95), rgba(8, 34, 45, .66)), url("../../images/gallery/team-01.jpg?v=20261005"); background-position: center; }
-#main article#approach { background-image: linear-gradient(100deg, rgba(8, 34, 45, .94), rgba(8, 34, 45, .66)), url("../../images/gallery/team-03.jpg?v=20261005"); background-position: center; }
-#main article#contact { background-image: linear-gradient(100deg, rgba(8, 34, 45, .94), rgba(8, 34, 45, .64)), url("../../images/gallery/surgery-01.jpg?v=20261005"); background-position: center; }
+#main article#doctor { background-image: linear-gradient(100deg, rgba(8, 34, 45, .95), rgba(8, 34, 45, .69)), url("../../images/gallery/portrait-desk.jpg?v=20261005-2"); background-position: center 35%; }
+#main article#specialties { background-image: linear-gradient(100deg, rgba(8, 34, 45, .95), rgba(8, 34, 45, .66)), url("../../images/gallery/team-01.jpg?v=20261005-2"); background-position: center; }
+#main article#approach { background-image: linear-gradient(100deg, rgba(8, 34, 45, .94), rgba(8, 34, 45, .66)), url("../../images/gallery/team-03.jpg?v=20261005-2"); background-position: center; }
+#main article#contact { background-image: linear-gradient(100deg, rgba(8, 34, 45, .94), rgba(8, 34, 45, .64)), url("../../images/gallery/surgery-01.jpg?v=20261005-2"); background-position: center; }
 #main article#doctor h2, #main article#specialties h2, #main article#approach h2, #main article#contact h2,
 #main article#doctor h3, #main article#specialties h3, #main article#approach h3, #main article#contact h3,
 #main article#doctor strong, #main article#specialties strong, #main article#approach strong, #main article#contact strong { color: #fff; }
@@ -1828,7 +1828,7 @@ h1, h2, h3, h4, h5, h6 { font-family: "Manrope", sans-serif; text-transform: non
 }
 
 /* ENMG diagnostic page */
-#main article#emg { color: #eef5f3; background-color: #163c48; background-image: linear-gradient(100deg, rgba(8, 34, 45, .94), rgba(8, 34, 45, .64)), url("../../images/gallery/diagnostics.jpg?v=20261005"); background-position: center; background-size: cover; }
+#main article#emg { color: #eef5f3; background-color: #163c48; background-image: linear-gradient(100deg, rgba(8, 34, 45, .94), rgba(8, 34, 45, .64)), url("../../images/gallery/diagnostics.jpg?v=20261005-2"); background-position: center; background-size: cover; }
 #main article#emg h2, #main article#emg h3, #main article#emg strong, #main article#emg .statement { color: #fff; }
 #main article#emg h2.major:after { background: var(--aqua); }
 #main article#emg .article-kicker { color: var(--aqua); }
